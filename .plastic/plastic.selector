@@ -1,0 +1,4 @@
+repository "KM Horror@asdfrst@cloud"
+  path "/"
+    br "/main"
+    co "/main"
